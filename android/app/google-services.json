@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "848863722269",
+    "firebase_url": "https://iotproject-f2c40-default-rtdb.firebaseio.com",
+    "project_id": "iotproject-f2c40",
+    "storage_bucket": "iotproject-f2c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848863722269:android:8f73963f30d7f78f543ff4",
+        "android_client_info": {
+          "package_name": "com.example.iot_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbMSGhl7wX5-0RViLiXN7RGx81NyCewE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
